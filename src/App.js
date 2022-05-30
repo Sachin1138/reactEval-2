@@ -8,7 +8,6 @@ const App = () => {
       {/* READ: what is container in chakra-ui */}
       <Container maxW="container.xl" textAlign="center">
         <Products />
-        {/* Products // show by default*/}
       </Container>
     </div>
   );
